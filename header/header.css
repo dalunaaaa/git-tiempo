@@ -1,5 +1,24 @@
 header{
     width: 100%;
     height: 5rem;
+        text-align: center;
+        background-color: #b2c7dd; 
+        color: #fff; 
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    }
+
+    h1 {
+        margin: 0;
+        font-size: 2.5em;
+        margin-bottom: 10px;
+    }
+
+    h2 {
+        margin: 0;
+        font-size: 1.8em;
+    }
    
-}
+
+
