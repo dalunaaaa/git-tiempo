@@ -1,5 +1,23 @@
 header{
-    width: 100%;
-    height: 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.titulo span{
+    background-color: orange;
+    color: white;
+    padding: 0.7rem 0.4rem ;
+    border-radius: 100%;
+
+}
+.btn-github{
    
+    text-decoration: none;
+    background-color: rgb(44, 20, 75);
+    color: white;
+    font-weight: 600;
+    padding: 0.5rem 2rem;
+    border-radius: 3px;
+
+
 }
